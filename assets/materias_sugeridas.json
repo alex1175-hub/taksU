@@ -1,0 +1,12 @@
+{
+  "materias": [
+    { "nombre": "Programación de Aplicaciones", "profesor": "", "color": "#3F51B5" },
+    { "nombre": "Bases de Datos", "profesor": "", "color": "#009688" },
+    { "nombre": "Redes de Computadoras", "profesor": "", "color": "#E65100" },
+    { "nombre": "Estructuras de Datos", "profesor": "", "color": "#8E24AA" },
+    { "nombre": "Sistemas Operativos", "profesor": "", "color": "#2E7D32" },
+    { "nombre": "Ingeniería de Software", "profesor": "", "color": "#C62828" },
+    { "nombre": "Cálculo Diferencial", "profesor": "", "color": "#00838F" },
+    { "nombre": "Inglés Técnico", "profesor": "", "color": "#6D4C41" }
+  ]
+}
